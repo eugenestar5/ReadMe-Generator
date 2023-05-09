@@ -16,7 +16,6 @@ It helps users to generate a ReadMe file for their project.
 
  ## Installation
 Run NPM install to create modules and run the js file using node and answer all the questions on the command line.
-The ReadMe file, after it generates, get saved in the ReadMeGeneratorFolder.
 
  ## Usage
  It creates a ReadMe file for the user's project.
