@@ -76,7 +76,7 @@ function init() {
     inquirer.prompt(questions)
     .then((data) => {
        
-        writeToFile('./ReadMeGeneratorFolder/README.md', generateMarkDown({...data}));
+        writeToFile('README.md', generateMarkDown({...data}));
 
 });
 }
